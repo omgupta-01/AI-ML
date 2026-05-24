@@ -146,9 +146,3 @@ nlp-ticket-classifier/
 
 `Python` · `PyTorch` · `HuggingFace Transformers` · `DistilBERT` · `FastAPI` · `Uvicorn` · `Pandas` · `Scikit-learn`
 
----
-
-## 👤 Author
-
-**Om Gupta** · [omguptabca2020@gmail.com](mailto:omguptabca2020@gmail.com)  
-Software Developer — Data & ML @ Bonanza Portfolio Ltd
