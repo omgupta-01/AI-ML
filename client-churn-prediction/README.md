@@ -140,9 +140,4 @@ client-churn-prediction/
 
 `Python` · `XGBoost` · `Scikit-learn` · `SHAP` · `Pandas` · `NumPy` · `FastAPI` · `Matplotlib`
 
----
 
-## 👤 Author
-
-**Om Gupta** · [omguptabca2020@gmail.com](mailto:omguptabca2020@gmail.com)  
-Software Developer — Data & ML @ Bonanza Portfolio Ltd
